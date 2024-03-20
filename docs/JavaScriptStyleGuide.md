@@ -378,7 +378,7 @@ new Promise((resolve, reject) => {
 });
 ```
 
-31. [`prefer-destructuring`]: *https://eslint.org/docs/latest/rules/prefer-destructuring*
+31. [`prefer-destructuring`]: _Require destructuring from arrays and/or objects_
 
 ```js
 // BAD CODE
