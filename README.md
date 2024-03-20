@@ -34,7 +34,7 @@ The following are the minimum versions of the dependencies required to use `esli
 
 ### Usage
 
-Once the `eslint-config-js-ts` package is installed, you can use by specifying `js-ts` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section in your ESLint configuration.
+Once the `eslint-config-js-ts` package is installed, you can use by specifying `eslint-config-js-ts` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section in your ESLint configuration.
 
 1. Update **.eslintrc.{js,yml,json,cjs}** with the following:
 
