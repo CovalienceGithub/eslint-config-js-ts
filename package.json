@@ -1,9 +1,13 @@
 {
   "name": "eslint-config-js-ts",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Shareable ESLint configurations for Javascript and Typescript",
   "main": "index.js",
-  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CovalienceGithub/eslint-config-js-ts"
+  },
+  "homepage": "https://github.com/CovalienceGithub/eslint-config-js-ts",
   "keywords": [
     "config",
     "es2015",
@@ -11,21 +15,18 @@
     "es2017",
     "es2018",
     "eslint",
+    "Covalience",
+    "styleguide",
     "eslintconfig",
     "javascript",
     "typescript",
     "code",
     "quality"
   ],
-  "author": "Covalience",
+  "author": "Covalience (https://covalience.com)",
   "license": "ISC",
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.19.0",
-    "@typescript-eslint/parser": "^6.19.0",
-    "eslint": "^8.56.0",
-    "typescript": "^5.3.3"
-  },
   "peerDependencies": {
+    "eslint": ">=8.27.0",
     "@typescript-eslint/eslint-plugin": ">= 6.19.0",
     "@typescript-eslint/parser": ">= 6.19.0"
   }
