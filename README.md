@@ -24,8 +24,8 @@ The following are the minimum versions of the dependencies required to use `esli
 
 1.  `@typescript-eslint/eslint-plugin` >= 6.19.0
 1.  `@typescript-eslint/parser` >= 6.19.0
-1.  `typescript` >= 5.0.0
-1.  `eslint` >= 8.30.0
+1.  `typescript` >= 4.7.4
+1.  `eslint` >= 8.27.0
 
 > <br/>
 >
