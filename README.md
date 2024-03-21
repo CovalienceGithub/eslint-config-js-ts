@@ -6,7 +6,7 @@ This documentation provides developers with a step-by-step guide on integrating 
 
 > <br/>
 >
-> ### The project is built and maintained by [Covalience India Pvt Ltd.](https://covalience.com/)
+> ### The project is built and maintained by [Covalience, LLC](https://covalience.com/)
 >
 > <br />
 
