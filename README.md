@@ -15,7 +15,7 @@ This documentation provides developers with a step-by-step guide on integrating 
 By running the following command, we are installing the latest version of `eslint-config-js-ts` and its dependencies:
 
 ```
- npm install --save-dev eslint typescript git+https://github.com/CovalienceGithub/eslint-config-js-ts.git @typescript-eslint/parser @typescript-eslint/eslint-plugin
+ npm install --save-dev eslint typescript eslint-config-js-ts @typescript-eslint/parser @typescript-eslint/eslint-plugin
 ```
 
 #### Minimum dependencies version requirements:

@@ -20,11 +20,14 @@
     "eslintconfig",
     "javascript",
     "typescript",
+    "eslint configuration",
+    "eslint coding standards",
+    "Covalience, LLC",
     "code",
     "quality"
   ],
-  "author": "Covalience (https://covalience.com)",
-  "license": "ISC",
+  "author": "Covalience, LLC (https://covalience.com)",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">=8.27.0",
     "@typescript-eslint/eslint-plugin": ">= 6.19.0",
