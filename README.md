@@ -29,7 +29,7 @@ The following are the minimum versions of the dependencies required to use `esli
 
 > <br/>
 >
-> :warning: If your project is using older versions of the above dependencies. Please check the newer versions of this package and follow its documentation.
+> :warning: If your project is using older versions of the above dependencies.Please upgrade with compatible version if possible or please check the newer versions of this package and follow its documentation.
 > <br/>
 
 ### Usage
