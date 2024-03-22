@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-js-ts",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Shareable ESLint configurations for Javascript and Typescript",
   "main": "index.js",
   "repository": {
