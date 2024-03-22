@@ -1,5 +1,7 @@
 ## Shareable ESLint Configurations for TypeScript
 
+[![npm version](https://img.shields.io/npm/v/eslint-config-js-ts?style=flat-square)](https://www.npmjs.com/package/eslint-config-js-ts) [![npm downloads](https://img.shields.io/npm/dm/eslint-config-js-ts?style=flat-square)](https://www.npmjs.com/package/eslint-config-js-ts)
+
 ### Overview
 
 This documentation provides developers with a step-by-step guide on integrating shareable ESLint configuration `eslint-config-js-ts` for javascript and typescript rules in any front-end project. ESLint is a static code analysis tool for identifying and fixing common programming errors and enforcing coding standards.
